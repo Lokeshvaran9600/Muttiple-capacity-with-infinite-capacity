@@ -57,7 +57,8 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-
+# Developed by: lokeshvaran s
+# Reg No: 212223040105
 ## Output :
 ![239796920-d961ec39-3eb9-44d5-875b-375f5694d5df](https://github.com/Lokeshvaran9600/Muttiple-capacity-with-infinite-capacity/assets/145972263/7b26bf9f-30ed-45d2-9cf9-2289d2a6e957)
 
